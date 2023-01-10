@@ -1,0 +1,14 @@
+D:\Programs\Applications\Visual Studio\Number Analyzer Fixed\Number Analyzer Fixed\bin\Debug\net6.0\Number Analyzer Fixed.exe
+D:\Programs\Applications\Visual Studio\Number Analyzer Fixed\Number Analyzer Fixed\bin\Debug\net6.0\Number Analyzer Fixed.deps.json
+D:\Programs\Applications\Visual Studio\Number Analyzer Fixed\Number Analyzer Fixed\bin\Debug\net6.0\Number Analyzer Fixed.runtimeconfig.json
+D:\Programs\Applications\Visual Studio\Number Analyzer Fixed\Number Analyzer Fixed\bin\Debug\net6.0\Number Analyzer Fixed.dll
+D:\Programs\Applications\Visual Studio\Number Analyzer Fixed\Number Analyzer Fixed\bin\Debug\net6.0\ref\Number Analyzer Fixed.dll
+D:\Programs\Applications\Visual Studio\Number Analyzer Fixed\Number Analyzer Fixed\bin\Debug\net6.0\Number Analyzer Fixed.pdb
+D:\Programs\Applications\Visual Studio\Number Analyzer Fixed\Number Analyzer Fixed\obj\Debug\net6.0\Number Analyzer Fixed.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\Applications\Visual Studio\Number Analyzer Fixed\Number Analyzer Fixed\obj\Debug\net6.0\Number Analyzer Fixed.AssemblyInfoInputs.cache
+D:\Programs\Applications\Visual Studio\Number Analyzer Fixed\Number Analyzer Fixed\obj\Debug\net6.0\Number Analyzer Fixed.AssemblyInfo.cs
+D:\Programs\Applications\Visual Studio\Number Analyzer Fixed\Number Analyzer Fixed\obj\Debug\net6.0\Number Analyzer Fixed.csproj.CoreCompileInputs.cache
+D:\Programs\Applications\Visual Studio\Number Analyzer Fixed\Number Analyzer Fixed\obj\Debug\net6.0\Number Analyzer Fixed.dll
+D:\Programs\Applications\Visual Studio\Number Analyzer Fixed\Number Analyzer Fixed\obj\Debug\net6.0\ref\Number Analyzer Fixed.dll
+D:\Programs\Applications\Visual Studio\Number Analyzer Fixed\Number Analyzer Fixed\obj\Debug\net6.0\Number Analyzer Fixed.pdb
+D:\Programs\Applications\Visual Studio\Number Analyzer Fixed\Number Analyzer Fixed\obj\Debug\net6.0\Number Analyzer Fixed.genruntimeconfig.cache
